@@ -26,7 +26,7 @@ img {
 .right {
     display: flex;
     flex-direction: inherit;
-    min-width: 40%;
+    min-width: 100%;
 }
 .left {
     background-image: url('./images/bg-pattern-desktop.svg');
